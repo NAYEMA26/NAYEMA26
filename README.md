@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm NAYEMA FERDOUSHI</h1>
+<h1 align="center">Hi 🙋‍♀️, I'm NAYEMA FERDOUSHI</h1>
 <h3 align="center">A passionate in programming from Bangladesh</h3>
 
-
+<img align="right" alt="coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoding-geek21%2Fcoding-geek21&psig=AOvVaw187jOMHfuwe8VtqeBrwKf5&ust=1703413875459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj-2q2tpYMDFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayema26&label=Profile%20views&color=0e75b6&style=flat" alt="nayema26" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nayema ferdoushi" target="blank"><img src="https://img.shields.io/twitter/follow/nayema ferdoushi?logo=twitter&style=for-the-badge" alt="nayema ferdoushi" /></a> </p>
 
-- 🔭 I’m currently working on [Simple-Notepad](https://github.com/NAYEMA26/Simple-Notepad)
-
 - 🌱 I’m currently learning **JAVA**
 
-- 👯 I’m looking to collaborate on [ANSI C (E. Balagurusamy)](https://github.com/SharafatKarim/ansi-c-balagurusamy-exercise)
+- 🔓 I’m looking to collaborate on [ANSI C (E. Balagurusamy)](https://github.com/SharafatKarim/ansi-c-balagurusamy-exercise)
+
+- 🥹 I’m looking for help with [Simple-Notepad](https://github.com/NAYEMA26/Simple-Notepad)
 
 - 👨‍💻 All of my projects are available at [https://github.com/NAYEMA26](https://github.com/NAYEMA26)
 
