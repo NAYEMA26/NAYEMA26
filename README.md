@@ -1,7 +1,10 @@
 <h1 align="center">Hi 🙋‍♀️, I'm NAYEMA FERDOUSHI</h1>
 <h3 align="center">A passionate in programming from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoding-geek21%2Fcoding-geek21&psig=AOvVaw187jOMHfuwe8VtqeBrwKf5&ust=1703413875459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj-2q2tpYMDFQAAAAAdAAAAABAD.gif">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayema26&label=Profile%20views&color=0e75b6&style=flat" alt="nayema26" /> </p>
 
@@ -42,7 +45,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayema26&" alt="nayema26" /></p>
 
 //
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+/*<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>*/
 
 ###
 
