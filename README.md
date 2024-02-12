@@ -3,7 +3,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-> Patuakhali Science & Technology University (PSTU ) 
+> **Patuakhali Science & Technology University (PSTU )** 
 <h4 align="center">in Computer Science and Engineering</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayema26&label=Profile%20views&color=0e75b6&style=flat" alt="nayema26" /> </p>
 
