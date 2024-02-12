@@ -44,6 +44,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayema26&" alt="nayema26" /></p>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=NAYEMA26&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 ###
 
 
