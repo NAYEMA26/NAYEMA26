@@ -44,7 +44,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayema26&" alt="nayema26" /></p>
 
 ###
-# I WILL BE LEARN
+# Trying to LEARN
 ###
 
 
