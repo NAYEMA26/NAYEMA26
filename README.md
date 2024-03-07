@@ -22,7 +22,7 @@
 - 📫 How to reach me **ug2102026@cse.pstu.ac.bd**
 
 - ⚡ Fun fact **I'm seriously unserious.**
-
+<h6>"Life" the most funny word. But life is useless. </h6>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nayema ferdoushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayema ferdoushi" height="30" width="40" /></a>
