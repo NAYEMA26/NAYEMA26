@@ -22,6 +22,7 @@
 - 📫 How to reach me **ug2102026@cse.pstu.ac.bd**
 
 - 📝 So far so good, 7th March :)
+  ![photo_2024-02-27_21-57-44](https://github.com/NAYEMA26/NAYEMA26/assets/134846919/d8545e06-79d3-4816-bdfe-656f4970b9d0)
 
 - ⚡ Fun fact **I'm seriously unserious.**
 <h6>"Life" the most funny word. But life is useless. </h6>
