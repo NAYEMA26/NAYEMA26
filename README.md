@@ -21,6 +21,8 @@
 
 - 📫 How to reach me **ug2102026@cse.pstu.ac.bd**
 
+- 📝 So far so good, 7th March :)
+
 - ⚡ Fun fact **I'm seriously unserious.**
 <h6>"Life" the most funny word. But life is useless. </h6>
 <h3 align="left">Connect with me:</h3>
