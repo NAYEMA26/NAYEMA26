@@ -22,11 +22,11 @@
 - 📫 How to reach me **ug2102026@cse.pstu.ac.bd**
 
 - 📝 So far so good, 7th March :)
-  ![photo_2024-02-27_21-57-44](https://github.com/NAYEMA26/NAYEMA26/assets/134846919/d8545e06-79d3-4816-bdfe-656f4970b9d0)
 
 - ⚡ Fun fact **I'm seriously unserious.**
 <h6>"Life" the most funny word. But life is useless. </h6>
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/nayema ferdoushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayema ferdoushi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nayema ferdoushi" target="blank">
@@ -90,6 +90,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![photo_2024-02-27_21-57-44](https://github.com/NAYEMA26/NAYEMA26/assets/134846919/f52537ae-5eec-49db-8f2f-766637a387ca)
 
 ###
