@@ -90,6 +90,5 @@
 
 <br clear="both">
 
-![photo_2024-02-27_21-57-44](https://github.com/NAYEMA26/NAYEMA26/assets/134846919/f52537ae-5eec-49db-8f2f-766637a387ca)
 
 ###
